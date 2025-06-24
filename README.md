@@ -78,6 +78,9 @@ DynamoDB
 Delete logs
 ![](delete.PNG)
 
+Create note logs
+![](create.PNG)
+
 ---
 
 ## Tecnologías usadas
