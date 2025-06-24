@@ -75,6 +75,9 @@ s3
 DynamoDB  
 ![](table.PNG)
 
+Delete logs
+![](delete.PNG)
+
 ---
 
 ## Tecnologías usadas
